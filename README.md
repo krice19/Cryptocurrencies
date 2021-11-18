@@ -39,11 +39,11 @@ My scatterplot visualization plots the Total Coins Mined on the x axis and the T
 
 
 ### Built With
-    - Python
-    - Jupyter Notebook
-    - pandas
-    - hvplot.pandas
-    - plotly.express
-    - sklearn.preprocessing
-    - sklearn.decomposition
-    - sklearn.cluster
+- Python
+- Jupyter Notebook
+- pandas
+- hvplot.pandas
+- plotly.express
+- sklearn.preprocessing
+- sklearn.decomposition
+- sklearn.cluster
